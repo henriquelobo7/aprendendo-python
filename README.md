@@ -13,8 +13,6 @@ Aqui está uma amostra do que você encontrará neste repositório:
 
 1. **Gerador de Senhas Aleatórias**: Um script Python que gera senhas aleatórias com base em critérios específicos.
 
-2. **Projeto de Jogo da Velha**: Implementação do clássico jogo da velha em Python.
-
 ## Como Usar
 
 Cada pasta neste repositório contém seu próprio README com instruções específicas de uso e informações sobre o projeto ou exercício correspondente. Para começar, basta navegar até a pasta do projeto ou código que deseja explorar e siga as instruções no README correspondente.
