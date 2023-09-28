@@ -13,11 +13,7 @@ Aqui está uma amostra do que você encontrará neste repositório:
 
 1. **Gerador de Senhas Aleatórias**: Um script Python que gera senhas aleatórias com base em critérios específicos.
 
-2. **Calculadora Simples**: Um exemplo de uma calculadora de console em Python.
-
-3. **Projeto de Jogo da Velha**: Implementação do clássico jogo da velha em Python.
-
-4. **Exemplo de Uso de Bibliotecas**: Demonstração de como usar bibliotecas populares em Python, como matplotlib ou pandas.
+2. **Projeto de Jogo da Velha**: Implementação do clássico jogo da velha em Python.
 
 ## Como Usar
 
