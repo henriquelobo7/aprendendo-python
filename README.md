@@ -13,6 +13,7 @@ Aqui está uma amostra do que você encontrará neste repositório:
 
 1. **Gerador de Senhas Aleatórias**: Um script Python que gera senhas aleatórias com base em critérios específicos.
 2. **Sorteador de Times para a Pelada**: Um script Python que sorteia times de forma aleatória para evitar perder tempo selecionando jogador por jogador.
+3. **To Do List**: Um gerenciador de tarefas que permite que você adicione, veja e marque como concluída as suas tarefas do dia a dia.
 
 ## Como Usar
 
